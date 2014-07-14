@@ -1,4 +1,4 @@
-## APIVersion: 100000
+## APIVersion: 100004
 ## Title: LibStub
 ## Notes: Universal Library Stub
 ## Credits: Kaelten, Cladhaire, ckknight, Mikk, Ammo, Nevcairiel, ported to ESO by Seerah
