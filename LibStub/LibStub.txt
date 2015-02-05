@@ -2,6 +2,6 @@
 ## Title: LibStub
 ## Description: Universal Library Stub
 ## Credits: Kaelten, Cladhaire, ckknight, Mikk, Ammo, Nevcairiel, ported to ESO by Seerah
-## Version: 1.0 r2
+## Version: 1.0 rVERSION_NUMBER
 
 LibStub\LibStub.lua

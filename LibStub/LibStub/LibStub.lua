@@ -3,7 +3,7 @@
 -- LibStub developed for World of Warcraft by above members of the WowAce community.
 -- Ported to Elder Scrolls Online by Seerah
 
-local LIBSTUB_MAJOR, LIBSTUB_MINOR = "LibStub", 2  -- NEVER MAKE THIS AN SVN REVISION! IT NEEDS TO BE USABLE IN ALL REPOS!
+local LIBSTUB_MAJOR, LIBSTUB_MINOR = "LibStub", VERSION_NUMBER  -- NEVER MAKE THIS AN SVN REVISION! IT NEEDS TO BE USABLE IN ALL REPOS!
 local LibStub = _G[LIBSTUB_MAJOR]
 
 local strformat = string.format
