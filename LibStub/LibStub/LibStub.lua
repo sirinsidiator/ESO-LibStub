@@ -34,3 +34,5 @@ if not LibStub or LibStub.minor < LIBSTUB_MINOR then
 	function LibStub:IterateLibraries() return pairs(self.libs) end
 	setmetatable(LibStub, { __call = LibStub.GetLibrary })
 end
+
+LibStub.SILENT = true
